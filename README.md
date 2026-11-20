@@ -77,12 +77,12 @@ This course takes you through building 7 real-world AI agent projects, from simp
    # Start with Hello World
    git checkout project/hello-world
    uv sync
-   uv run python main.py
+   uv run python 1_agent_loop_langchain_tool_calling.py
    
    # Progress to Code Interpreter
    git checkout project/code-interpreter
    uv sync
-   uv run python main.py
+   uv run python 1_agent_loop_langchain_tool_calling.py
    ```
    
    **For external repository projects:**
